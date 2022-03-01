@@ -1,6 +1,6 @@
 # video_call_encrypt
 ## npm i
-## nodemon app.js
+## npm run dev
 ## go to localhost://3000
 
 
